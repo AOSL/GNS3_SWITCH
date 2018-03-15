@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Terminal=false
+Exec=/usr/bin/gns3
+Icon=/usr/share/icons/Extra/GNS3-logo-new.png
+Name= GNS3
+Categories=Application
